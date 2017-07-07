@@ -1,7 +1,7 @@
 * Generate ISO-8601 compliant date
 
 ```
-date -u +"%Y-%m-%dT%H:%M:%SZ"`          # Generate current date-time using specific fofrmat
+date -u +"%Y-%m-%dT%H:%M:%SZ"          # Generate current date-time using specific fofrmat
 ```
 
 * Generate UUID4 in lower case
